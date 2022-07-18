@@ -1,0 +1,28 @@
+h1 {
+    color: #593F1C;
+}
+
+.header{
+    background-color:#deb887;
+    display: flex;
+    justify-content: space-between;
+}
+
+.joojs-de-qualidade{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.redes-sociais-para-baianos-dormirem{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p, h2, h3, h4, img{
+    text-align: center;
+}
+
+body {
+    background-color: #DF9C45;
+}
